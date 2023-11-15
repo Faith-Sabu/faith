@@ -106,23 +106,4 @@ span {
     left: 45%;
 }
 
-/* Media Query for Small Screens (e.g., smartphones) */
-@media (max-width: 768px) {
-    .detel {
-        text-align: center;
-        margin-left: 0;
-        margin-top: 5%;
-    }
 
-    .images {
-        width: 100%;
-    }
-
-    .images img {
-        height: auto; /* Adjust the height for small screens */
-    }
-
-    .images.bg {
-        height: 60px;
-    }
-}
